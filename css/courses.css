@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+
+
+
+/* Bar 1 */
+
+.nav1 {
+    background-color: #68c2de;
+}
+
+.nav1 li {
+    display: inline-block;
+    padding:6px;
+
+}
+
+.nav1 li a {
+    text-decoration: none;
+    color: white;
+    padding: 8px;
+}
+.nav1 li a:hover {
+    background-color: #006280;
+}
+
+
+
+
+/* Bar2 */
+
+.logo{
+    padding:10px;
+}
+
+/* .bar2-para1{
+
+} */
+
+.bar2-para2{
+    float:right;
+    padding:40px;
+}
+.orange{
+  color:orange;
+}
+
+
+
+
+/* Bar 3 */
+.bar3{
+    width:100%;
+}
+
+.nav-bar {
+    background-color: #005974;
+    margin:0px;
+}
+
+.nav-bar li {
+    display: inline-block;
+    padding:10px 20px;
+
+
+
+}
+
+.nav-bar li a {
+    color: white;
+    text-decoration: none;
+    padding:12px 10px;
+}
+
+.nav-bar li a:hover {
+    color: orange;
+    transition: 0.6s;
+
+}
+
+.active {
+    background-color: #5dc3e2;
+}
+
+/* Courses */
+
+
+.courses{
+    padding:20px 0px 0px 0px;
+}
+
+.box{
+    border:1px solid black;
+    padding:25px 20px 25px 20px;
+}
+/* .txt{
+    padding:0px 0px 0px 20px;
+} */
+.para{
+    /* justify-content:space-around; */
+}
+.btn-More{
+    padding:5px 20px;
+    background-color:rgb(57, 57, 214);
+    color:white;
+    border:0px;
+}
+.btn-More:hover{
+    background-color:rgb(0, 0, 185);
+    
+}
